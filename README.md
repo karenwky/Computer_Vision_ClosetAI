@@ -8,6 +8,8 @@ Using Mask R-CNN in Clothes Retrieval for both images and videos.
 
 ## Data Preprocessing
 
+## Deployment
+
 ## Skills Acquired
 * Deep Learning: 
 * Git LFS: upload large file greater than 100MB to GitHub using terminal command, self-written tutorial can be found [here](./Git_LFS.md)
@@ -33,8 +35,10 @@ Using Mask R-CNN in Clothes Retrieval for both images and videos.
 ```
 
 ## Acknowledgements
-This project cannnot be accomplished without references from below repositories. Thank you coders for sharing your experience! =]
+This project cannnot be accomplished without references from below repositories and blog post. Thank you coders for sharing your experience! =]
 * [switchablenorms/DeepFashion2](https://github.com/switchablenorms/DeepFashion2/)
 * [matterport/Mask_RCNN](https://github.com/matterport/Mask_RCNN)
 * [akTwelve/tutorials](https://github.com/akTwelve/tutorials/blob/master/mask_rcnn/MaskRCNN_TrainAndInference.ipynb)
 * [Tony607/colab-mask-rcnn](https://github.com/Tony607/colab-mask-rcnn)
+* [chohaku84/np_detect](https://github.com/chohaku84/np_detect/blob/master/api/flask_app.py)
+* [technovechno@home:~$](https://technovechno.com/creating-graphs-in-python-using-matplotlib-flask-framework-pythonanywhere/)
