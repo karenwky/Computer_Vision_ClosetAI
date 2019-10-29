@@ -1,4 +1,4 @@
-# Image Segmentation: Fashionista
+# Image Segmentation: ClosetAI
 Using Mask R-CNN in Clothes Retrieval for both images and videos. 
 
 ## Data Source
