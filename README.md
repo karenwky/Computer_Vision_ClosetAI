@@ -1,5 +1,5 @@
-# Image Segmentation: ClosetAI
-Using Mask R-CNN in Clothes Retrieval for both images and videos. 
+# Image Recognition: ClosetAI
+Combining the techniques of Object Detection and instance segmentation, using Deep Learning model Mask R-CNN in Clothes Retrieval. Various medias such as clothing image and street fashion video can be analyzed by the model. Also, ClosetAI can generate business intelligence analysis in giving you a popular fashion items report.
 
 ## Data Source
 [DeepFashion2 Dataset](https://github.com/switchablenorms/DeepFashion2/) which contains including 191,961 training images and 32,153 validation images. Json files of image information such as annotations and category names are also provided. 
