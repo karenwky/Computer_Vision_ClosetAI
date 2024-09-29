@@ -1,19 +1,17 @@
 # Image Recognition: ClosetAI
 Combining the techniques of Object Detection and Instance Segmentation, using deep learning model Mask R-CNN in clothes retrieval. Various medias such as clothing image and street fashion video can be analyzed by the model. Also, ClosetAI can generate business intelligence analysis in giving you a popular fashion items report.
 
-_Note: This repo is incomplete and not yet maintained. I was busy with job hunting, and the model was trained on bootcamp institution's computer, so the code is kinda messy and hard to organize._
-
 ## Data Source
 [DeepFashion2 Dataset](https://github.com/switchablenorms/DeepFashion2/) which contains including 191,961 training images and 32,153 validation images. Json files of image information such as annotations and category names are also provided. 
 
-## Exploratory Data Analysis
-
-## Data Preprocessing
-
-## Deployment
+## Demo Video
+![Demo](/img/demo.gif) 
+<br>
+https://www.youtube.com/watch?v=JSrxAmX793k
 
 ## Skills Acquired
 * Deep Learning: Computer Vision
+* Flask: deploy the machine learning model as a web application, classifying clothes in the uploaded image
 * Git LFS: upload large file greater than 100MB to GitHub using terminal command, self-written tutorial can be found [here](./Git_LFS.md)
 
 ## Citations
