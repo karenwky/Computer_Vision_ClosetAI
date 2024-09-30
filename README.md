@@ -10,7 +10,7 @@ Combining the techniques of Object Detection and Instance Segmentation, using de
 https://www.youtube.com/watch?v=JSrxAmX793k
 
 ## Skills Acquired
-* Deep Learning: Computer Vision
+* Deep Learning: Computer Vision, Keras
 * Flask: deploy the machine learning model as a web application, classifying clothes in the uploaded image
 * Git LFS: upload large file greater than 100MB to GitHub using terminal command, self-written tutorial can be found [here](./Git_LFS.md)
 
