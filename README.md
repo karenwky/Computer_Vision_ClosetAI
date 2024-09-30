@@ -1,4 +1,4 @@
-# Image Recognition: ClosetAI
+# Computer Vision: ClosetAI
 Combining the techniques of Object Detection and Instance Segmentation, using deep learning model Mask R-CNN in clothes retrieval. Various medias such as clothing image and street fashion video can be analyzed by the model. Also, ClosetAI can generate business intelligence analysis in giving you a popular fashion items report.
 
 ## Data Source
